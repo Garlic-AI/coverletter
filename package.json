@@ -16,6 +16,7 @@
     "eventsource-parser": "^0.0.5",
     "framer-motion": "^8.4.3",
     "fs": "^0.0.1-security",
+    "github-markdown-css": "^5.2.0",
     "gpt-3-encoder": "^1.1.4",
     "next": "latest",
     "next-themes": "^0.2.1",
@@ -25,7 +26,9 @@
     "react-hook-form": "^7.42.0",
     "react-hot-toast": "^2.4.0",
     "react-icons": "^4.7.1",
+    "react-markdown": "^8.0.7",
     "react-use-measure": "^2.1.1",
+    "remark-gfm": "^3.0.1",
     "vercel": "^28.15.0"
   },
   "devDependencies": {
